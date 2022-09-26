@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @takkuva
+- 👀 I’m e-commerce company ...
+- 🌱 I’m coming soon ...
+- 💞️ follow me on social media links ...
+- Instagram: https://www instagram.com/takkuva
+- Facebook: https://www.facebook.com/takkuva
+- Twitter: https://www.twitter.com/takkuva
+- 📫 How to reach me ...
+- takkuvaofficial@gmail.com
+<!---
+takkuva/takkuva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
